@@ -22,3 +22,11 @@ Classify 3 million products into around 10,000 categories.
 - Applied Count Vectorizer
 - Calculated TF-IDF
 - Fed the Data to ML Algorithms 
+
+## Team Members:
+
+- Sandeep Rajakrishnan
+- Sudhay Senthilkumar
+
+## Date of Update:
+August 1, 2020
