@@ -10,8 +10,7 @@ Classify 3 million products into around 10,000 categories.
 - Sandeep Rajakrishnan
 - Sudhay Senthilkumar
 
-## Date of Update:
-August 1, 2020
+
 
 ## Dataset consists of columns :
 
@@ -30,3 +29,7 @@ August 1, 2020
 - Applied Count Vectorizer
 - Calculated TF-IDF
 - Fed the Data to ML Algorithms 
+
+
+## Date of Update:
+August 1, 2020
