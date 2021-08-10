@@ -5,6 +5,14 @@ Dataset Link : https://s3-ap-southeast-1.amazonaws.com/he-public-data/dataset52a
 ## Task 
 Classify 3 million products into around 10,000 categories.
 
+## Team Members:
+
+- Sandeep Rajakrishnan
+- Sudhay Senthilkumar
+
+## Date of Update:
+August 1, 2020
+
 ## Dataset consists of columns :
 
 - Product Name
@@ -22,11 +30,3 @@ Classify 3 million products into around 10,000 categories.
 - Applied Count Vectorizer
 - Calculated TF-IDF
 - Fed the Data to ML Algorithms 
-
-## Team Members:
-
-- Sandeep Rajakrishnan
-- Sudhay Senthilkumar
-
-## Date of Update:
-August 1, 2020
